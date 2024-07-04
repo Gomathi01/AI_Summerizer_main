@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/AI-Powered-Content-Summarizer-Dashboard_FrontEnd/static/css/main.4673fd82.css",
+    "main.js": "/AI-Powered-Content-Summarizer-Dashboard_FrontEnd/static/js/main.8ea86992.js",
+    "static/js/239.0c93e809.chunk.js": "/AI-Powered-Content-Summarizer-Dashboard_FrontEnd/static/js/239.0c93e809.chunk.js",
+    "static/js/213.7d5a3699.chunk.js": "/AI-Powered-Content-Summarizer-Dashboard_FrontEnd/static/js/213.7d5a3699.chunk.js",
+    "static/js/732.d5d5f88c.chunk.js": "/AI-Powered-Content-Summarizer-Dashboard_FrontEnd/static/js/732.d5d5f88c.chunk.js",
+    "index.html": "/AI-Powered-Content-Summarizer-Dashboard_FrontEnd/index.html",
+    "main.4673fd82.css.map": "/AI-Powered-Content-Summarizer-Dashboard_FrontEnd/static/css/main.4673fd82.css.map",
+    "main.8ea86992.js.map": "/AI-Powered-Content-Summarizer-Dashboard_FrontEnd/static/js/main.8ea86992.js.map",
+    "239.0c93e809.chunk.js.map": "/AI-Powered-Content-Summarizer-Dashboard_FrontEnd/static/js/239.0c93e809.chunk.js.map",
+    "213.7d5a3699.chunk.js.map": "/AI-Powered-Content-Summarizer-Dashboard_FrontEnd/static/js/213.7d5a3699.chunk.js.map",
+    "732.d5d5f88c.chunk.js.map": "/AI-Powered-Content-Summarizer-Dashboard_FrontEnd/static/js/732.d5d5f88c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4673fd82.css",
+    "static/js/main.8ea86992.js"
+  ]
+}
