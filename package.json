@@ -2,7 +2,7 @@
   "name": "webscraper",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Gomathi01.github.io/AI-Powered-Content-Summarizer-Dashboard_FrontEnd",
+  "homepage": "https://Gomathi01.github.io/AI_Summerizer_main",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
